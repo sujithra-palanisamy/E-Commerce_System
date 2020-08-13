@@ -1,0 +1,26 @@
+*Create data base in my Sql with name EcommerceSystem
+
+* All Products to be inserted is available in data.sql file
+
+URL for all Functions:
+
+* To see all the products available 
+		http://localhost:8080/viewAllProducts
+		
+* To search order by name or Id
+		http://localhost:8080/productSearch
+		
+* Add or Update the quantity in cart
+		http://localhost:8080/addProductToCart
+		
+* Delete particular item in cart
+		http://localhost:8080/deleteProductFromCart
+		
+* Delete All items in cart
+		http://localhost:8080/deleteAllFromCart
+		
+* View All items available in cart
+		http://localhost:8080/viewCart
+		
+* View All items available in cart	based on price sorted	
+		http://localhost:8080/viewCartSorted
